@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/RobinQu/cgi-run/issues"
   },
+  "dependencies": {
+    "cross-spawn": "^0.1.7",
+    "debug": "^1.0.4"
+  },
   "homepage": "https://github.com/RobinQu/cgi-run"
 }
